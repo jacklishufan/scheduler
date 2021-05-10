@@ -4,6 +4,7 @@
 */.ipynb_checkpoints/
 staticfiles/
 .DS_store
+.venv
 *.sh
 airstream/settings/environment.py
 
