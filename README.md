@@ -1,4 +1,4 @@
-# Ccheduler
+# Scheduler
 # Definitions
 A directed acyclic graph(DAG) is a graph数学公式: $ G(V,E) $with no cycles
 Constants
