@@ -1,6 +1,6 @@
 # Scheduler
 # Definitions
-A directed acyclic graph(DAG) is a graph数学公式: $ G(V,E) $with no cycles
+A directed acyclic graph(DAG) is a graph $G(V,E)$ with no cycles
 Constants
 ####is_py_func: 
 0 offline,
