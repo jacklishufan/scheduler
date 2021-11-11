@@ -2,11 +2,11 @@
 # Definitions
 A directed acyclic graph(DAG) is a graph $G(V,E)$ with no cycles
 Constants
-####is_py_func: 
+#### is_py_func: 
 0 offline,
 1, python,
 2 system
-####job_status:
+#### job_status:
 0 schuedled 
 
 1 running 
@@ -83,7 +83,7 @@ Representing an executable copy of Graph, with additional runtime information.
     "launch_time": "2021-04-16T06:50:31.528477Z"
    }
 ```
-##APIS
+## APIS
 
 Examples and specs TBC.
 
